@@ -1,0 +1,151 @@
+body{
+font: 15px/1.5 Arial, Helvetica,sans-serif;
+  padding:0;
+  margin:0;
+  background-color:#f4f4f4;
+}
+.container{
+  width:80%;
+  margin:auto;
+  overflow:hidden;
+}
+
+ul{
+  margin:0;
+  padding:0;
+}
+ul{
+  margin:0;
+  padding:0;
+}
+
+.button_1{
+  height:38px;
+  background:#e8491d;
+  border:0;
+  padding-left: 20px;
+  padding-right:20px;
+  color:#ffffff;
+}
+
+.dark{
+  padding:15px;
+  background:#35424a;
+  color:#ffffff;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+/* Header **/
+header{
+  background:#35424a;
+  color:#ffffff;
+  padding-top:30px;
+  min-height:70px;
+  border-bottom:#e8491d 3px solid;
+}
+
+header a{
+  color:#ffffff;
+  text-decoration:none;
+  text-transform: uppercase;
+  font-size:16px;
+}
+
+header li{
+  float:left;
+  display:inline;
+  padding: 0 20px 0 20px;
+}
+
+header #branding{
+  float:left;
+}
+
+header #branding h1{
+  margin:0;
+}
+
+header nav{
+  float:right;
+  margin-top:10px;
+}
+
+header .highlight, header .current a{
+  color:#e8491d;
+  font-weight:bold;
+}
+
+header a:hover{
+  color:#cccccc;
+  font-weight:bold;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+  border: 10px solid #e8491d;
+  border-top: none;
+  border-left: none;
+}
+.i_1{
+    text-align: center;
+    font-style: italic;
+    
+}
+.h2_1 {
+    text-align: center;
+    font-weight: bold;
+}
+h3 {
+    text-align: center;
+}
+.p_1{
+  text-align: center;  
+}
+.p_2{
+    text-align: center;
+    font-weight: bold;
+}
+.a_1{
+    text-align: center;
+}
+.header_2{
+    background:#35424a;
+  color:#ffffff;
+  padding-top:10px;
+  min-height: 10px;
+  border-bottom:#e8491d 3px solid;
+}
+.title_1{
+    background:#35424a;
+  color:#ffffff;
+  padding-top:15px;
+  min-height: 30%;
+  border-bottom:#e8491d 10px solid;
+  border-left: #e8491d 10px solid;
+  floats: center;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 40px;
+}
+.img_2{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  border-radius: 50%;
+  border: 10px solid #e8491d;
+  border-top: none;
+  border-left: none;
+}
+.link_1{
+    color:#e8491d;
+    margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  display: block;
+  font-size: 30px;
+}
