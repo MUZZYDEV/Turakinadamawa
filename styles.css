@@ -140,3 +140,18 @@ footer{
 .spanheader{
     color: White;
 }
+.buttons{
+    padding: 20px;
+    Background-color: #234F1E;
+    display: flex;
+    position: sticky;
+    bottom: 0;
+     text-align: center;
+}
+.buttons li{
+    font-size: 10px;
+    text-align: left;
+    text-decoration: none;
+    list-style-type: none;
+    color: red;
+}
